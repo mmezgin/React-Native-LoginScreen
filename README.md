@@ -10,4 +10,9 @@ Setup for win10
 -npm i -g
 -expo start
 
-https://github.com/mmezgin/React-Native-LoginScreen/blob/master/Screen_View.jpg
+<img
+src=“Screen_View.jpg”
+raw=true
+alt=“Subject Pronouns”
+style=“margin-right: 10px;”
+/>
