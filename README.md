@@ -1,4 +1,6 @@
 # React-Native-LoginScreen
+-> https://expo.io/learn
+
 Setup for win10
 - cd {path]
 -mkdir {folderName}
