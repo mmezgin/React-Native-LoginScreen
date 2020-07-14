@@ -10,9 +10,4 @@ Setup for win10
 -npm i -g
 -expo start
 
-<img
-src=“Screen_View.jpg”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+![](Screen_View.png)
