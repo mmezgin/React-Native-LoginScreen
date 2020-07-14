@@ -10,4 +10,4 @@ Setup for win10
 -npm i -g
 -expo start
 
-![](Screen_View.png)
+![](/Screen_View.png 100x20)
