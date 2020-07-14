@@ -9,3 +9,5 @@ Setup for win10
 -Drag and Drop downloaded files
 -npm i -g
 -expo start
+
+https://github.com/mmezgin/React-Native-LoginScreen/blob/master/Screen_View.jpg
