@@ -1,7 +1,7 @@
 # React-Native-LoginScreen
 -> https://expo.io/learn
 
-Setup for win10 
+Setup for win10  
 -> npm install expo-cli --global  
 -> cd {path]  
 -> mkdir {folderName}  
