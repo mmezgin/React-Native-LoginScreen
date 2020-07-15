@@ -10,4 +10,6 @@ Setup for win10
 -npm i -g
 -expo start
 
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true
+![Alt text](Screen_View.png.jpg?raw=true "Title")
 ![](/Screen_View.png 100x20)
