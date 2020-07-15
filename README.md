@@ -10,6 +10,5 @@ Setup for win10
 -npm i -g
 -expo start
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true
-![Alt text](Screen_View.png.jpg?raw=true "Title")
-![](/Screen_View.png 100x20)
+Here is a screenshot of an android device.
+![Screen_View](https://user-images.githubusercontent.com/49004855/87512557-e5fe0e80-c67f-11ea-8936-61097da111f1.jpg)
